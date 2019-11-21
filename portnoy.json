@@ -1,9 +1,11 @@
 {
 	"image": "https://cdn.jsdelivr.net/gh/emceeaich/portnoy@bdc522e79ed0b97f6388b6941c41d6d3f091e47d/images/emma.jpg",
 	"name": "Emma Humphries",
-	"description": "My name is Emma.",
+	"description": "Emma Humphries believes in the healing power of Sleater-Kinney’s “Dig Me Out,” coffee, hockey, and the Open Web. For the Mozilla project she helps people file better bugs, helps engineers make decisions on those bugs faster, and tries to make the open source friendlier for underrepresented groups. In her spare time she dances, messes about with tiny computers, cooks, and rides her electric bike. She started working on the Web when she asked the Otherwise Award’s Motherboard if she could make a website for them in the early 1990's. She still has the original site on a 3.5” disk. She lives with her wife and several cats in Silicon Valley, on lands that belong to the Ohlone people.\n",
 	"twitter": "https://twitter.com/triagegirl",
 	"facebook": "none",
 	"wikipedia": "https://en.wikipedia.org/user/emceeaich",
-	"github": "https://github.com/emceeaich"
+	"github": "https://github.com/emceeaich",
+	"ao3": "https://archiveofourown.org/users/emceeaich",
+	"twitch": "https://www.twitch.tv/emceeaich"
 }
